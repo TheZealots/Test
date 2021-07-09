@@ -3,7 +3,7 @@ import sys, random
 
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 #new
-
+#shshshshshhshs
 def main():
     #print("Input a word")
     myMessage = input("Input a word:\n")
