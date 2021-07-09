@@ -2,6 +2,7 @@
 import sys, random
 
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+#new
 
 def main():
     #print("Input a word")
